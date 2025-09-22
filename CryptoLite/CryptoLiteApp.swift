@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoLiteApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabContainerView()
         }
     }
 }
